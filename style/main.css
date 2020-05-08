@@ -179,6 +179,22 @@ h2 span {
   font-weight: 700;
 }
 
+/* ***********RECOMMANDATION********** */
+.recommandations_content {
+  padding: 40px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.recommandations_content p {
+  margin-top: 5px;
+}
+
+.recommandation_name {
+  font-weight: 700;
+}
+
 /* **************************************************************** */
 /* ***********RESPONSIVE********** */
 @media (max-width: 1270px) {
