@@ -275,6 +275,10 @@ h2 span {
     align-items: center;
   }
 
+  .description_description{
+    text-align: center;
+  }
+
   .resume_content_date {
     margin-left: 0;
     margin-bottom: 20px;
