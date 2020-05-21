@@ -187,6 +187,10 @@ h2 span {
   text-align: justify;
 }
 
+.description_description p{
+  margin-top: 8px;
+}
+
 /* ***********RECOMMANDATION********** */
 .recommandations_content {
   padding: 40px;
